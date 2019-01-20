@@ -1,0 +1,2 @@
+BACKUP DATABASE [DPSTableAddIn]  
+TO DISK = 'C:\SQLInstanz\Backup\2019-01-09-DPSTableAddIn.bak';
